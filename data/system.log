@@ -1,0 +1,11 @@
+2026-11-19 09:15:30|INFO|sensor|Temperature reading received
+2026-11-19 09:15:31|WARNING|sensor|Temperature above threshold
+2026-11-19 09:15:32|ERROR|mqtt|Connection failed
+
+2026-11-19 09:15:33|INFO|system|System operational
+2026-11-19 09:15:34|CRITICAL|power|Voltage critically low
+INVALID LOG ENTRY
+2026-11-19 09:15:35|UNKNOWN|sensor|Invalid severity
+2026-99-99 09:15:36|ERROR|mqtt|Invalid timestamp
+2026-11-19 09:15:37|INFO||Missing component
+2026-11-19 09:15:38|DEBUG|sensor|
